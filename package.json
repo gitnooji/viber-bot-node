@@ -1,6 +1,6 @@
 {
   "name": "@nooji/viber-bot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A bot interface to work with Viber API",
   "author": "Viber LTD",
   "engines": {
